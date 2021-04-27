@@ -13,7 +13,7 @@
 [백준 문제집](https://www.acmicpc.net/workbook/view/6833)
 |          순번          |        풀이유무         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 00 |    | <a href="http://boj.kr/14916" target="_blank">거스름돈</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
+| 00 |  O  | <a href="http://boj.kr/14916" target="_blank">거스름돈</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> |                      |
 | 01 |    | <a href="http://boj.kr/2217" target="_blank">로프</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 02 |    | <a href="http://boj.kr/1343" target="_blank">폴리오미노</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
 | 03 |    | <a href="http://boj.kr/1758" target="_blank">알바생 강호</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/7.svg"/> |                      |
