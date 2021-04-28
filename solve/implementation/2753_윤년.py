@@ -1,12 +1,12 @@
-# 시작 10시 47분
-# 문제해석시간 10시 48분
-# 코드생각시간 10시 57분
-# 코드만드는시간 11시 12분
-# 디버깅시간 12시 13분
-# 딴짓을 너무 많이 함 잡생각이 많았음
 
+import sys
+input = sys.stdin.readline
 def main():
-    pass
+    year = int(input())
+    if ((year % 4) == 0 and (year % 100 != 0)) or ((year % 4) == 0 and (year % 400 == 0)) :
+        print(1)
+    else:
+        print(0)
 
 
 if __name__ == "__main__":
