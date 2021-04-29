@@ -1,5 +1,6 @@
 # 시작시간 3시 22분
-# 끝시간 
+# 끝시간 4시 52분
+
 class Person:
     def __init__(self, money):
         self.num_stock = 0
