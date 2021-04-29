@@ -18,8 +18,8 @@
 |          순번          |        추천 문제         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 00 |  O  | <a href="http://boj.kr/1212" target="_blank">8진수 2진수</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="./../solution/implementation/1212">바로가기</a> |
-| 01 |    | <a href="http://boj.kr/2753" target="_blank">윤년</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="./../solution/implementation/2753">바로가기</a> |
-| 02 |    | <a href="http://boj.kr/20053" target="_blank">최소, 최대 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="./../solution/implementation/20053">바로가기</a> |
+| 01 |  O | <a href="http://boj.kr/2753" target="_blank">윤년</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/2.svg"/> | <a href="./../solution/implementation/2753">바로가기</a> |
+| 02 |  O | <a href="http://boj.kr/20053" target="_blank">최소, 최대 2</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/3.svg"/> | <a href="./../solution/implementation/20053">바로가기</a> |
 | 03 |    | <a href="http://boj.kr/5597" target="_blank">과제 안 내신 분..?</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./../solution/implementation/5597">바로가기</a> |
 | 04 |    | <a href="http://boj.kr/20546" target="_blank">🐜 기적의 매매법 🐜</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/4.svg"/> | <a href="./../solution/implementation/20546">바로가기</a> |
 | 05 |    | <a href="http://boj.kr/1913" target="_blank">달팽이</a> | <img height="25px" width="25px=" src="https://static.solved.ac/tier_small/6.svg"/> | <a href="./../solution/implementation/1913">바로가기</a> |
